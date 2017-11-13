@@ -7,8 +7,6 @@ for i in j:
 
 print("Yellow Submarine")
 print("Nowhere Man")
-
 print('Hello Goodbye!')
-# This is now master
-print("Many new changes here!")
+print("Let It Be")
 
